@@ -1,3 +1,3 @@
 program name
-Print *, "Hello world123123" 
+Print *, "Hello world!" 
 end program 
