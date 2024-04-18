@@ -1,3 +1,5 @@
-program name
-Print *, "task2" 
-end program 
+program task2
+a = 1
+b = 2
+write (*,*) a, b
+end
